@@ -52,6 +52,9 @@ Suppose you are an employee for a company in Seattle, Washington. However, you l
 
 Our data model can help with this decision by showing which car brands offer the greatest average electric range and maximum electric range. Based on our model's results, one could conclude that if they are looking for a car that is reliable across all models, they would likely choose one of the brands in the top five for average electric range. On the other hand, if the consumer wants a car that can go the farthest on a single charge, they might choose one of the brands ranked highest in maximum electric range. image
 
+https://private-user-images.githubusercontent.com/202871375/439471802-891b767e-6a0b-48eb-bb0e-822a890d1a94.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYwNjQ0NzAsIm5iZiI6MTc0NjA2NDE3MCwicGF0aCI6Ii8yMDI4NzEzNzUvNDM5NDcxODAyLTg5MWI3NjdlLTZhMGItNDhlYi1iYjBlLTgyMmE4OTBkMWE5NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwMVQwMTQ5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02YzgxMzhjMDIzZGYzMjgyOTRjNDIyNTg5NjViYTYxZjVjNTI3OTVhNzA4NTFlMTMxNjBkMWVlZmZiN2MzMTQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ptkajA-tN8dD6h5_8GE-culHrexxeBVdHhLQqBvaLig
+
+
 Question 2
 
 Question:
@@ -65,3 +68,7 @@ For question two, we had to apply a filter to make Tableau only show data for th
 Analysis and Results:
 
 Unlike question one, question two helps provide companies with insight into EV adoption across Washington state. Suppose you are working for Tesla and want to expand into more areas of Washington. It would be helpful for your team to understand the scale of EV registration across all counties. Our model supports this by showing the total number of registered EVs per county. According to our model, King County, which includes Seattle, has the highest number of EVs. A Tesla advisor may recommend advertising in nearby counties with similar levels of EV adoption.
+
+https://private-user-images.githubusercontent.com/202871375/439475597-f1480561-151a-4d17-9cd3-8721d3ba27f4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDYwNjQ0NzAsIm5iZiI6MTc0NjA2NDE3MCwicGF0aCI6Ii8yMDI4NzEzNzUvNDM5NDc1NTk3LWYxNDgwNTYxLTE1MWEtNGQxNy05Y2QzLTg3MjFkM2JhMjdmNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNTAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDUwMVQwMTQ5MzBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MGQ2ZTc3MTI0YzU1MmY1YTYxMmI4ODU3NjY4YzY5YmFmYjI5MjVmNTVkOGNhZDBlNWZlZTEwNWIwNDRiYjFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1G0kVFuH-DX_ViY-Bbh413p6tE8zmSwU718OZ9lnOus
+
+https://github.com/HaydenMulnix/MIST4610_GroupProjectTwo#tableau-packaged-workbook
